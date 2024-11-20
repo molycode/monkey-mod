@@ -4,6 +4,8 @@
 *.plg
 *.suo
 *.user
+*.filters
+.vs
 
 # Build results
 Release/
